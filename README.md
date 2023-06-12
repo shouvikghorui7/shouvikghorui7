@@ -6,16 +6,16 @@
 
   - 🌱 I’m currently Learning Machine Learning and Deep Learning😎.
   
-  - 👯 Currently working in the Field of Pulmonary Fluid Mechanics 
+  - 👯 Currently working in the field of Pulmonary Fluid Mechanics 
 
-  - 📚 I have developed My solver in OpenFOAM CFD tool to solve particle Deposition related problem.
+  - 📚 I have developed a solver in OpenFOAM CFD tool to solve particle deposition related problem.
   
   - 🥅 2022 Goals: Explore the area of deep Learning and Machine Learing and how to use this technology to solve the real life problem in society.
 
   - ⚡ Fun fact: I love to code.
 
 ---
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shouvikghorui7&show_icons=true&theme=radical) | [![Shouvik's Stri](https://streak-stats.demolab.com?user=shouvikghorui&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Shouvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=shouvikghorui7&show_icons=true&theme=radical) | [![Shouvik's Stri](https://streak-stats.demolab.com?user=shouvikghorui&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shouvikghorui7&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
 
