@@ -1,7 +1,6 @@
 - ### Hi there, I'm Shouvik Ghorui👋
    ![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)
-  ## I'm a  enthusiast Data Science and Machine Learning student with a keen interest in Fluid Mechanics and CFD Engineering Domain [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shouvik-ghorui-728902162)
----
+  ## I'm a  enthusiast Data Science and Machine Learning student with a keen interest in Fluid Mechanics and CFD Engineering Domain [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouvik-ghorui-728902162)
 
   * 🔭 I am Currently working as a MS scholar at [IIT Madras](https://www.iitm.ac.in/)
 
