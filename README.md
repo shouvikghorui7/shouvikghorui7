@@ -1,7 +1,25 @@
-<h1 align="center">Hi 👋, I'm Shouvik Ghorui</h1>
+- ### Hi there, I'm Ashish Patel👋
+  ![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)
 <h3 align="center">A enthusiast Data Science and Machine Learning student,</h3>
+  ## I'm a  enthusiast Data Science and Machine Learning student with a keen interest in Fluid Mechanics and CFD Engineering Domain [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shouvik-ghorui-728902162)
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shouvikghorui7&label=Profile%20views&color=0e75b6&style=flat" alt="shouvikghorui7" /> </p>
+  * 🔭 I am Currently working as a MS scholar at [IIT Madras](https://www.iitm.ac.in/)
+
+  - 🌱 I’m currently Learning Machine Learning and Deep Learning😎.
+  
+  - 👯 Currently working in the Field of Pulmonary Fluid Mechanics 
+
+  - 📚 I have developed My solver in OpenFOAM CFD tool to solve particle Deposition related problem.
+  -  
+  - 🥅 2022 Goals: Explore the area of deep Learning and Machine Learing and how to use this technology to solve the real life problem in society.
+
+  - ⚡ Fun fact: I love to code.
+
+---
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shouvikghorui7&show_icons=true&theme=radical) | [![Shouvik's Stri](https://streak-stats.demolab.com?user=shouvikghorui&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shouvikghorui7&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
 
 
 <h3 align="left">Connect with me:</h3>
