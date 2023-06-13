@@ -10,7 +10,7 @@
 
   - 📚 I have developed a solver in OpenFOAM CFD tool to solve particle deposition related problem.
   
-  - 🥅 2022 Goals: Explore the area of deep Learning and Machine Learing and how to use this technology to solve the real life problem in society.
+  - 🥅 2023 Goals: Explore the area of deep Learning and Machine Learing and how to use this technology to solve the real life problem in society.
 
   - ⚡ Fun fact: I love to code.
 
